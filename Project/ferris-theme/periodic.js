@@ -28,7 +28,7 @@ var chemicalElements = [
     { link: 'https://ark-oidc-server.immanuel.co/', symbol: 'ferris-theme/images/ark_logo_1.png', name: 'Ark oAuth', group: 2, period: 4 },
     { link: 'https://webrtc-signal-node.immanuel.co/', symbol: 'ferris-theme/images/video_c.png', name: 'WebRTC Video', group: 3, period: 4 },
     { link: 'https://webrtc-audio-node.immanuel.co/', symbol: 'ferris-theme/images/audio_t.png', name: 'WebRTC Audio', group: 4, period: 4 },
-    { link: 'https://car-damage-detect.immanuel.co/', symbol: 'ferris-theme/images/geoip_.png', name: 'Car Damage (onnx)', group: 5, period: 3 },
+    { link: 'https://car-damage-detect.immanuel.co/', symbol: 'ferris-theme/images/ark-cardamage-logo.png', name: 'Car Damage (onnx)', group: 5, period: 3 },
     //{ link: 'https://gospel.immanuel.co/', symbol: 'ferris-theme/images/gospel_.png', name: 'Gospel', group: 18, period: 4 },
     //{ link: 'https://hi5.immanuel.co/Common/ScriptView', symbol: 'ferris-theme/images/hi5_.png', name: 'hi5 js', group: 1, period: 5 },
     //{ link: 'https://pdf.immanuel.co/Home/pdf', symbol: 'ferris-theme/images/htm_pdf.png', name: 'Html2Pdf', group: 2, period: 5 },
